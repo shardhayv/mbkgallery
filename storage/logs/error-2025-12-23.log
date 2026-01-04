@@ -1,0 +1,7 @@
+{"type":"ERROR","severity":2,"message":"Undefined array key \"REQUEST_URI\"","file":"\/opt\/lampp\/htdocs\/gallery\/debug_routes.php","line":7,"timestamp":"2025-12-23 08:11:55","ip":"unknown"}
+{"type":"ERROR","severity":2,"message":"Undefined array key \"REQUEST_METHOD\"","file":"\/opt\/lampp\/htdocs\/gallery\/debug_routes.php","line":8,"timestamp":"2025-12-23 08:11:55","ip":"unknown"}
+{"type":"ERROR","severity":2,"message":"ini_set(): Session ini settings cannot be changed when a session is active","file":"\/opt\/lampp\/htdocs\/gallery\/core\/Security\/SecurityManager.php","line":13,"timestamp":"2025-12-23 08:12:10","ip":"unknown"}
+{"type":"ERROR","severity":2,"message":"ini_set(): Session ini settings cannot be changed when a session is active","file":"\/opt\/lampp\/htdocs\/gallery\/core\/Security\/SecurityManager.php","line":14,"timestamp":"2025-12-23 08:12:10","ip":"unknown"}
+{"type":"ERROR","severity":2,"message":"ini_set(): Session ini settings cannot be changed when a session is active","file":"\/opt\/lampp\/htdocs\/gallery\/core\/Security\/SecurityManager.php","line":15,"timestamp":"2025-12-23 08:12:10","ip":"unknown"}
+{"type":"ERROR","severity":8,"message":"session_start(): Ignoring session_start() because a session is already active","file":"\/opt\/lampp\/htdocs\/gallery\/core\/Security\/SecurityManager.php","line":16,"timestamp":"2025-12-23 08:12:10","ip":"unknown"}
+{"type":"DATABASE_CONNECTION","message":"could not find driver","timestamp":"2025-12-23 08:12:10"}
