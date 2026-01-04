@@ -1,4 +1,4 @@
-see as i don't want payment option online because most people will be local it will help as catalog to browse and order to check the user attention to the product so right now i think these features are required , so make a plan for this and start implementing like industry standard step by step Admin authentication (currently basic)
+okay see as i don't want payment option online because most people will be local it will help as catalog to browse and order to check the user attention to the product so right now i think these features are required , so make a plan for this and start implementing like industry standard step by step Admin authentication (currently basic)
 Session management
 
 CSRF protection
